@@ -1,0 +1,5 @@
+{
+  "name": "[Demo]AI트랜스포메이션 전략추진 서비스",
+  "description": "An application that acts as an AI transformation expert, diagnosing a company's AI readiness and generating a customized adoption strategy, roadmap, and performance metrics based on user input.",
+  "requestFramePermissions": []
+}
